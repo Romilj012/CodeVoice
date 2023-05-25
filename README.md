@@ -38,6 +38,8 @@ The system is divided into several modules:
 4. Speech Recognition: Utilizes the SpeechRecognition library to retrieve audio input and convert it into text.
 5. Special Program Constructs: Generates specific program constructs if a match is found between spoken words and reserved Java words.
 
+![SystemArchitecture](https://github.com/Romilj012/CodeVoice/blob/main/Screenshot%202023-05-25%20at%206.44.55%20PM.png)
+
 ## Feasibility Study
 The feasibility study examines the technical, economic, and operational aspects of the project. The Voice Enabled Coding Assistant project has been found to be technically feasible, as it utilizes existing systems and tools such as Java Development Kit and Python. It is also economically feasible, as it does not require additional costs beyond the existing text-oriented systems. Additionally, the project has been found to be operationally feasible, with users perceiving the system as user-friendly.
 
